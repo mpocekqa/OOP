@@ -6,5 +6,6 @@ public class declarationAndInitialization {
         int number = 2;
         String ime = "Milovan";
         System.out.println(ime);
+        System.out.println("Sad sam na trecem brenchu");
     }
 }
