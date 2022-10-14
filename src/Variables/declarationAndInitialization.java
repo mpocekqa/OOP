@@ -8,5 +8,6 @@ public class declarationAndInitialization {
         String prezime = "Pocek";
         System.out.println(ime);
         System.out.println(prezime);
+        System.out.println("Zovem se " + ime + " " + prezime);
     }
 }
