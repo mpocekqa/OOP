@@ -8,5 +8,6 @@ public class declarationAndInitialization {
         System.out.println(ime);
         System.out.println("Sad sam na trecem brenchu");
         //sad sam user 2 na thirdBranchu radim
+        //sad komitujem kao user 1
     }
 }
